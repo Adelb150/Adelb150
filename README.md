@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Alejandro!
-- 👀 I’m interested in learning CS and Computer Languages
+- Junior Computer Science student at UTD with growing experience in cybersecurity competitions and labs. Skilled in Python,
+Linux, and security tools. Eager and actively learning cybersecurity concepts every day!
 
 
 <!---
